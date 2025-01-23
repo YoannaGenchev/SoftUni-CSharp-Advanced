@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUni\\03.Stacks and Queues\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA70EE8-2A3D-4C71-AE77-4A17EFAA9213}|3. Simple Calculator3. Simple Calculator\\3. Simple Calculator.csproj|c:\\softuni\\03.stacks and queues\\3. simple calculator3. simple calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA70EE8-2A3D-4C71-AE77-4A17EFAA9213}|3. Simple Calculator3. Simple Calculator\\3. Simple Calculator.csproj|solutionrelative:3. simple calculator3. simple calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B265DC86-E26A-4825-930C-58077C4E7F97}|8. Traffic Jam\\8. Traffic Jam.csproj|c:\\softuni\\03.stacks and queues\\8. traffic jam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B265DC86-E26A-4825-930C-58077C4E7F97}|8. Traffic Jam\\8. Traffic Jam.csproj|solutionrelative:8. traffic jam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8599D638-C11C-47F7-B235-141FD073EDB2}|7. Hot Potato\\7. Hot Potato.csproj|c:\\softuni\\03.stacks and queues\\7. hot potato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8599D638-C11C-47F7-B235-141FD073EDB2}|7. Hot Potato\\7. Hot Potato.csproj|solutionrelative:7. hot potato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061349D9-B0D4-4CB5-816B-FFD0B5137346}|5. Print Even Numbers\\5. Print Even Numbers.csproj|c:\\softuni\\03.stacks and queues\\5. print even numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061349D9-B0D4-4CB5-816B-FFD0B5137346}|5. Print Even Numbers\\5. Print Even Numbers.csproj|solutionrelative:5. print even numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A19D7C-2732-4573-9C29-8E68EE0B2B0E}|6. Supermarket\\6. Supermarket.csproj|c:\\softuni\\03.stacks and queues\\6. supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A19D7C-2732-4573-9C29-8E68EE0B2B0E}|6. Supermarket\\6. Supermarket.csproj|solutionrelative:6. supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8419E025-9915-489C-89B5-AFE1EAA02EE4}|4. Matching Brackets\\4. Matching Brackets.csproj|c:\\softuni\\03.stacks and queues\\4. matching brackets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8419E025-9915-489C-89B5-AFE1EAA02EE4}|4. Matching Brackets\\4. Matching Brackets.csproj|solutionrelative:4. matching brackets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD88B13-510F-4ECA-B0C7-02E564BDF696}|1. Reverse a String\\1. Reverse a String.csproj|c:\\softuni\\03.stacks and queues\\1. reverse a string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD88B13-510F-4ECA-B0C7-02E564BDF696}|1. Reverse a String\\1. Reverse a String.csproj|solutionrelative:1. reverse a string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1072545-25CC-458A-84B2-FF832B6D096E}|2. Stack Sum\\2. Stack Sum.csproj|c:\\softuni\\03.stacks and queues\\2. stack sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1072545-25CC-458A-84B2-FF832B6D096E}|2. Stack Sum\\2. Stack Sum.csproj|solutionrelative:2. stack sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\03.Stacks and Queues\\4. Matching Brackets\\Program.cs",
+              "RelativeDocumentMoniker": "4. Matching Brackets\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\03.Stacks and Queues\\4. Matching Brackets\\Program.cs",
+              "RelativeToolTip": "4. Matching Brackets\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:07:24.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\03.Stacks and Queues\\5. Print Even Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "5. Print Even Numbers\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\03.Stacks and Queues\\5. Print Even Numbers\\Program.cs",
+              "RelativeToolTip": "5. Print Even Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:07:42.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\03.Stacks and Queues\\7. Hot Potato\\Program.cs",
+              "RelativeDocumentMoniker": "7. Hot Potato\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\03.Stacks and Queues\\7. Hot Potato\\Program.cs",
+              "RelativeToolTip": "7. Hot Potato\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:08:21.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\03.Stacks and Queues\\6. Supermarket\\Program.cs",
+              "RelativeDocumentMoniker": "6. Supermarket\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\03.Stacks and Queues\\6. Supermarket\\Program.cs",
+              "RelativeToolTip": "6. Supermarket\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:08:00.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\03.Stacks and Queues\\8. Traffic Jam\\Program.cs",
+              "RelativeDocumentMoniker": "8. Traffic Jam\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\03.Stacks and Queues\\8. Traffic Jam\\Program.cs",
+              "RelativeToolTip": "8. Traffic Jam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:08:40.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\03.Stacks and Queues\\1. Reverse a String\\Program.cs",
+              "RelativeDocumentMoniker": "1. Reverse a String\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\03.Stacks and Queues\\1. Reverse a String\\Program.cs",
+              "RelativeToolTip": "1. Reverse a String\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:05:58.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\03.Stacks and Queues\\2. Stack Sum\\Program.cs",
+              "RelativeDocumentMoniker": "2. Stack Sum\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\03.Stacks and Queues\\2. Stack Sum\\Program.cs",
+              "RelativeToolTip": "2. Stack Sum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:06:31.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\03.Stacks and Queues\\3. Simple Calculator3. Simple Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "3. Simple Calculator3. Simple Calculator\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\03.Stacks and Queues\\3. Simple Calculator3. Simple Calculator\\Program.cs",
+              "RelativeToolTip": "3. Simple Calculator3. Simple Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:06:48.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
