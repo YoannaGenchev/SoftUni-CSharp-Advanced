@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CED8D39-95AB-4FBB-B564-A87A97B013A4}|7. Folder Size\\7. Folder Size.csproj|c:\\softuni\\c# advanced\\09.streams, files and directories\\7. folder size\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CED8D39-95AB-4FBB-B564-A87A97B013A4}|7. Folder Size\\7. Folder Size.csproj|solutionrelative:7. folder size\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E59F59-C10A-4199-8C5A-27B58D646C36}|6. Split  Merge Binary Files\\6. Split  Merge Binary Files.csproj|c:\\softuni\\c# advanced\\09.streams, files and directories\\6. split  merge binary files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E59F59-C10A-4199-8C5A-27B58D646C36}|6. Split  Merge Binary Files\\6. Split  Merge Binary Files.csproj|solutionrelative:6. split  merge binary files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E59F59-C10A-4199-8C5A-27B58D646C36}|6. Split  Merge Binary Files\\6. Split  Merge Binary Files.csproj|c:\\softuni\\c# advanced\\09.streams, files and directories\\6. split  merge binary files\\6. split  merge binary files.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38E59F59-C10A-4199-8C5A-27B58D646C36}|6. Split  Merge Binary Files\\6. Split  Merge Binary Files.csproj|solutionrelative:6. split  merge binary files\\6. split  merge binary files.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF7D454-3BB8-4D42-A382-BA20C5735133}|5. Extract Special Bytes\\5. Extract Special Bytes.csproj|c:\\softuni\\c# advanced\\09.streams, files and directories\\5. extract special bytes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF7D454-3BB8-4D42-A382-BA20C5735133}|5. Extract Special Bytes\\5. Extract Special Bytes.csproj|solutionrelative:5. extract special bytes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17294A00-D7AF-4C1E-905D-8BFE3DA5CC60}|4. Merge Files\\4. Merge Files.csproj|c:\\softuni\\c# advanced\\09.streams, files and directories\\4. merge files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17294A00-D7AF-4C1E-905D-8BFE3DA5CC60}|4. Merge Files\\4. Merge Files.csproj|solutionrelative:4. merge files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4BC343-91F0-44E3-9ED5-CF72C69ED83E}|3. Word Count\\3. Word Count.csproj|c:\\softuni\\c# advanced\\09.streams, files and directories\\3. word count\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4BC343-91F0-44E3-9ED5-CF72C69ED83E}|3. Word Count\\3. Word Count.csproj|solutionrelative:3. word count\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBEEB3A-84B5-4C5A-A548-C7529784D757}|1. Odd Lines\\1. Odd Lines.csproj|c:\\softuni\\c# advanced\\09.streams, files and directories\\1. odd lines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBEEB3A-84B5-4C5A-A548-C7529784D757}|1. Odd Lines\\1. Odd Lines.csproj|solutionrelative:1. odd lines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17294A00-D7AF-4C1E-905D-8BFE3DA5CC60}|4. Merge Files\\4. Merge Files.csproj|c:\\softuni\\c# advanced\\09.streams, files and directories\\4. merge files\\4. merge files.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17294A00-D7AF-4C1E-905D-8BFE3DA5CC60}|4. Merge Files\\4. Merge Files.csproj|solutionrelative:4. merge files\\4. merge files.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E68E7E-8AC9-470A-ABD0-9ACE385E4975}|2. Line Numbers\\2. Line Numbers.csproj|c:\\softuni\\c# advanced\\09.streams, files and directories\\2. line numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E68E7E-8AC9-470A-ABD0-9ACE385E4975}|2. Line Numbers\\2. Line Numbers.csproj|solutionrelative:2. line numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E68E7E-8AC9-470A-ABD0-9ACE385E4975}|2. Line Numbers\\2. Line Numbers.csproj|c:\\softuni\\c# advanced\\09.streams, files and directories\\2. line numbers\\2. line numbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31E68E7E-8AC9-470A-ABD0-9ACE385E4975}|2. Line Numbers\\2. Line Numbers.csproj|solutionrelative:2. line numbers\\2. line numbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4BC343-91F0-44E3-9ED5-CF72C69ED83E}|3. Word Count\\3. Word Count.csproj|c:\\softuni\\c# advanced\\09.streams, files and directories\\3. word count\\3. word count.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C4BC343-91F0-44E3-9ED5-CF72C69ED83E}|3. Word Count\\3. Word Count.csproj|solutionrelative:3. word count\\3. word count.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBEEB3A-84B5-4C5A-A548-C7529784D757}|1. Odd Lines\\1. Odd Lines.csproj|c:\\softuni\\c# advanced\\09.streams, files and directories\\1. odd lines\\1. odd lines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ACBEEB3A-84B5-4C5A-A548-C7529784D757}|1. Odd Lines\\1. Odd Lines.csproj|solutionrelative:1. odd lines\\1. odd lines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\6. Split  Merge Binary Files\\Program.cs",
+              "RelativeDocumentMoniker": "6. Split  Merge Binary Files\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\6. Split  Merge Binary Files\\Program.cs",
+              "RelativeToolTip": "6. Split  Merge Binary Files\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:29:07.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\7. Folder Size\\Program.cs",
+              "RelativeDocumentMoniker": "7. Folder Size\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\7. Folder Size\\Program.cs",
+              "RelativeToolTip": "7. Folder Size\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:29:28.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "6. Split  Merge Binary Files",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\6. Split  Merge Binary Files\\6. Split  Merge Binary Files.csproj",
+              "RelativeDocumentMoniker": "6. Split  Merge Binary Files\\6. Split  Merge Binary Files.csproj",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\6. Split  Merge Binary Files\\6. Split  Merge Binary Files.csproj",
+              "RelativeToolTip": "6. Split  Merge Binary Files\\6. Split  Merge Binary Files.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T13:38:10.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "3. Word Count",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\3. Word Count\\3. Word Count.csproj",
+              "RelativeDocumentMoniker": "3. Word Count\\3. Word Count.csproj",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\3. Word Count\\3. Word Count.csproj",
+              "RelativeToolTip": "3. Word Count\\3. Word Count.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T12:28:11.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\3. Word Count\\Program.cs",
+              "RelativeDocumentMoniker": "3. Word Count\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\3. Word Count\\Program.cs",
+              "RelativeToolTip": "3. Word Count\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:28:01.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\5. Extract Special Bytes\\Program.cs",
+              "RelativeDocumentMoniker": "5. Extract Special Bytes\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\5. Extract Special Bytes\\Program.cs",
+              "RelativeToolTip": "5. Extract Special Bytes\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:28:42.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\4. Merge Files\\Program.cs",
+              "RelativeDocumentMoniker": "4. Merge Files\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\4. Merge Files\\Program.cs",
+              "RelativeToolTip": "4. Merge Files\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:28:24.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\1. Odd Lines\\Program.cs",
+              "RelativeDocumentMoniker": "1. Odd Lines\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\1. Odd Lines\\Program.cs",
+              "RelativeToolTip": "1. Odd Lines\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:27:16.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\2. Line Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "2. Line Numbers\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\2. Line Numbers\\Program.cs",
+              "RelativeToolTip": "2. Line Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:27:39.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "4. Merge Files",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\4. Merge Files\\4. Merge Files.csproj",
+              "RelativeDocumentMoniker": "4. Merge Files\\4. Merge Files.csproj",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\4. Merge Files\\4. Merge Files.csproj",
+              "RelativeToolTip": "4. Merge Files\\4. Merge Files.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T12:42:36.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "2. Line Numbers",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\2. Line Numbers\\2. Line Numbers.csproj",
+              "RelativeDocumentMoniker": "2. Line Numbers\\2. Line Numbers.csproj",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\2. Line Numbers\\2. Line Numbers.csproj",
+              "RelativeToolTip": "2. Line Numbers\\2. Line Numbers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-24T21:30:23.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "1. Odd Lines",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\1. Odd Lines\\1. Odd Lines.csproj",
+              "RelativeDocumentMoniker": "1. Odd Lines\\1. Odd Lines.csproj",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\09.Streams, Files and Directories\\1. Odd Lines\\1. Odd Lines.csproj",
+              "RelativeToolTip": "1. Odd Lines\\1. Odd Lines.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T12:17:28.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
