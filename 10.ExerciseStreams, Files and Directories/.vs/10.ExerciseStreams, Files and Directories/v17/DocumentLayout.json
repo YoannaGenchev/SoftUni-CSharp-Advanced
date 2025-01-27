@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUni\\C# Advanced\\10.ExerciseStreams, Files and Directories\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A7C531-E873-4F2B-B14B-1D78A5F665BE}|6. Zip and Extract\\6. Zip and Extract.csproj|c:\\softuni\\c# advanced\\10.exercisestreams, files and directories\\6. zip and extract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A7C531-E873-4F2B-B14B-1D78A5F665BE}|6. Zip and Extract\\6. Zip and Extract.csproj|solutionrelative:6. zip and extract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29740F3B-517C-4BB9-BD8F-0F12B6CD4711}|5. Copy Directory\\5. Copy Directory.csproj|c:\\softuni\\c# advanced\\10.exercisestreams, files and directories\\5. copy directory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29740F3B-517C-4BB9-BD8F-0F12B6CD4711}|5. Copy Directory\\5. Copy Directory.csproj|solutionrelative:5. copy directory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94715393-AAAD-43D0-9F69-6D60F859B033}|4. Directory Traversal\\4. Directory Traversal.csproj|c:\\softuni\\c# advanced\\10.exercisestreams, files and directories\\4. directory traversal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94715393-AAAD-43D0-9F69-6D60F859B033}|4. Directory Traversal\\4. Directory Traversal.csproj|solutionrelative:4. directory traversal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058D669B-EC53-4F07-B154-9E9F7E7C3ACC}|3. Copy Binary File\\3. Copy Binary File.csproj|c:\\softuni\\c# advanced\\10.exercisestreams, files and directories\\3. copy binary file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058D669B-EC53-4F07-B154-9E9F7E7C3ACC}|3. Copy Binary File\\3. Copy Binary File.csproj|solutionrelative:3. copy binary file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058D669B-EC53-4F07-B154-9E9F7E7C3ACC}|3. Copy Binary File\\3. Copy Binary File.csproj|c:\\softuni\\c# advanced\\10.exercisestreams, files and directories\\3. copy binary file\\3. copy binary file.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{058D669B-EC53-4F07-B154-9E9F7E7C3ACC}|3. Copy Binary File\\3. Copy Binary File.csproj|solutionrelative:3. copy binary file\\3. copy binary file.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD91347E-6FDD-4A27-B8DF-D32FD9F05887}|2. Line Numbers\\2. Line Numbers.csproj|c:\\softuni\\c# advanced\\10.exercisestreams, files and directories\\2. line numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD91347E-6FDD-4A27-B8DF-D32FD9F05887}|2. Line Numbers\\2. Line Numbers.csproj|solutionrelative:2. line numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD91347E-6FDD-4A27-B8DF-D32FD9F05887}|2. Line Numbers\\2. Line Numbers.csproj|c:\\softuni\\c# advanced\\10.exercisestreams, files and directories\\2. line numbers\\2. line numbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD91347E-6FDD-4A27-B8DF-D32FD9F05887}|2. Line Numbers\\2. Line Numbers.csproj|solutionrelative:2. line numbers\\2. line numbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742B04B4-DE72-4C4E-985F-2C02A5CCA076}|1. Even Lines\\1. Even Lines.csproj|c:\\softuni\\c# advanced\\10.exercisestreams, files and directories\\1. even lines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742B04B4-DE72-4C4E-985F-2C02A5CCA076}|1. Even Lines\\1. Even Lines.csproj|solutionrelative:1. even lines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742B04B4-DE72-4C4E-985F-2C02A5CCA076}|1. Even Lines\\1. Even Lines.csproj|c:\\softuni\\c# advanced\\10.exercisestreams, files and directories\\1. even lines\\1. even lines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{742B04B4-DE72-4C4E-985F-2C02A5CCA076}|1. Even Lines\\1. Even Lines.csproj|solutionrelative:1. even lines\\1. even lines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\10.ExerciseStreams, Files and Directories\\4. Directory Traversal\\Program.cs",
+              "RelativeDocumentMoniker": "4. Directory Traversal\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\10.ExerciseStreams, Files and Directories\\4. Directory Traversal\\Program.cs",
+              "RelativeToolTip": "4. Directory Traversal\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:37:27.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\10.ExerciseStreams, Files and Directories\\5. Copy Directory\\Program.cs",
+              "RelativeDocumentMoniker": "5. Copy Directory\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\10.ExerciseStreams, Files and Directories\\5. Copy Directory\\Program.cs",
+              "RelativeToolTip": "5. Copy Directory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:37:54.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\10.ExerciseStreams, Files and Directories\\6. Zip and Extract\\Program.cs",
+              "RelativeDocumentMoniker": "6. Zip and Extract\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\10.ExerciseStreams, Files and Directories\\6. Zip and Extract\\Program.cs",
+              "RelativeToolTip": "6. Zip and Extract\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA/wB4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:38:15.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\10.ExerciseStreams, Files and Directories\\3. Copy Binary File\\Program.cs",
+              "RelativeDocumentMoniker": "3. Copy Binary File\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\10.ExerciseStreams, Files and Directories\\3. Copy Binary File\\Program.cs",
+              "RelativeToolTip": "3. Copy Binary File\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:37:15.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\10.ExerciseStreams, Files and Directories\\2. Line Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "2. Line Numbers\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\10.ExerciseStreams, Files and Directories\\2. Line Numbers\\Program.cs",
+              "RelativeToolTip": "2. Line Numbers\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:36:53.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\10.ExerciseStreams, Files and Directories\\1. Even Lines\\Program.cs",
+              "RelativeDocumentMoniker": "1. Even Lines\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\10.ExerciseStreams, Files and Directories\\1. Even Lines\\Program.cs",
+              "RelativeToolTip": "1. Even Lines\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:34:47.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "3. Copy Binary File.csproj",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\10.ExerciseStreams, Files and Directories\\3. Copy Binary File\\3. Copy Binary File.csproj",
+              "RelativeDocumentMoniker": "3. Copy Binary File\\3. Copy Binary File.csproj",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\10.ExerciseStreams, Files and Directories\\3. Copy Binary File\\3. Copy Binary File.csproj",
+              "RelativeToolTip": "3. Copy Binary File\\3. Copy Binary File.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T14:45:13.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "2. Line Numbers.csproj",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\10.ExerciseStreams, Files and Directories\\2. Line Numbers\\2. Line Numbers.csproj",
+              "RelativeDocumentMoniker": "2. Line Numbers\\2. Line Numbers.csproj",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\10.ExerciseStreams, Files and Directories\\2. Line Numbers\\2. Line Numbers.csproj",
+              "RelativeToolTip": "2. Line Numbers\\2. Line Numbers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T14:45:05.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "1. Even Lines.csproj",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\10.ExerciseStreams, Files and Directories\\1. Even Lines\\1. Even Lines.csproj",
+              "RelativeDocumentMoniker": "1. Even Lines\\1. Even Lines.csproj",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\10.ExerciseStreams, Files and Directories\\1. Even Lines\\1. Even Lines.csproj",
+              "RelativeToolTip": "1. Even Lines\\1. Even Lines.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T14:45:00.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programming\\Programming Fundamentals C#\\7.Sets and Dictionaries Advanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA89EB4-688A-4A88-A48D-FD55A6BB980C}|08. SoftUni Party\\08. SoftUni Party.csproj|c:\\programming\\programming fundamentals c#\\7.sets and dictionaries advanced\\08. softuni party\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA89EB4-688A-4A88-A48D-FD55A6BB980C}|08. SoftUni Party\\08. SoftUni Party.csproj|solutionrelative:08. softuni party\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF7ADB4-B239-4952-ABFC-6C225F96873D}|07. Parking Lot\\07. Parking Lot.csproj|c:\\programming\\programming fundamentals c#\\7.sets and dictionaries advanced\\07. parking lot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF7ADB4-B239-4952-ABFC-6C225F96873D}|07. Parking Lot\\07. Parking Lot.csproj|solutionrelative:07. parking lot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6631021-3D28-40B3-ADEF-B1C213A72518}|06. Record Unique Names\\06. Record Unique Names.csproj|c:\\programming\\programming fundamentals c#\\7.sets and dictionaries advanced\\06. record unique names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6631021-3D28-40B3-ADEF-B1C213A72518}|06. Record Unique Names\\06. Record Unique Names.csproj|solutionrelative:06. record unique names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BCC5F8-3F39-42C1-9106-3306117DE06E}|05. Cities by Continent and Country\\05. Cities by Continent and Country.csproj|c:\\programming\\programming fundamentals c#\\7.sets and dictionaries advanced\\05. cities by continent and country\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BCC5F8-3F39-42C1-9106-3306117DE06E}|05. Cities by Continent and Country\\05. Cities by Continent and Country.csproj|solutionrelative:05. cities by continent and country\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A5E532-6A2C-4709-A385-10B705DB1BFD}|04. Product Shop\\04. Product Shop.csproj|c:\\programming\\programming fundamentals c#\\7.sets and dictionaries advanced\\04. product shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A5E532-6A2C-4709-A385-10B705DB1BFD}|04. Product Shop\\04. Product Shop.csproj|solutionrelative:04. product shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820A814F-DF73-47F1-B3F5-007A8472866F}|03. Largest 3 Numbers\\03. Largest 3 Numbers.csproj|c:\\programming\\programming fundamentals c#\\7.sets and dictionaries advanced\\03. largest 3 numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820A814F-DF73-47F1-B3F5-007A8472866F}|03. Largest 3 Numbers\\03. Largest 3 Numbers.csproj|solutionrelative:03. largest 3 numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2244D4-D5A1-4FC7-920F-C9B6E8683B20}|02. Average Student Grades\\02. Average Student Grades.csproj|c:\\programming\\programming fundamentals c#\\7.sets and dictionaries advanced\\02. average student grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2244D4-D5A1-4FC7-920F-C9B6E8683B20}|02. Average Student Grades\\02. Average Student Grades.csproj|solutionrelative:02. average student grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD26E882-5D2C-437D-80DE-EE21A41B4D2B}|01. Count Same Values in Array\\01. Count Same Values in Array.csproj|c:\\programming\\programming fundamentals c#\\7.sets and dictionaries advanced\\01. count same values in array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD26E882-5D2C-437D-80DE-EE21A41B4D2B}|01. Count Same Values in Array\\01. Count Same Values in Array.csproj|solutionrelative:01. count same values in array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programming\\Programming Fundamentals C#\\7.Sets and Dictionaries Advanced\\07. Parking Lot\\Program.cs",
+              "RelativeDocumentMoniker": "07. Parking Lot\\Program.cs",
+              "ToolTip": "C:\\Programming\\Programming Fundamentals C#\\7.Sets and Dictionaries Advanced\\07. Parking Lot\\Program.cs",
+              "RelativeToolTip": "07. Parking Lot\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:36:47.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programming\\Programming Fundamentals C#\\7.Sets and Dictionaries Advanced\\04. Product Shop\\Program.cs",
+              "RelativeDocumentMoniker": "04. Product Shop\\Program.cs",
+              "ToolTip": "C:\\Programming\\Programming Fundamentals C#\\7.Sets and Dictionaries Advanced\\04. Product Shop\\Program.cs",
+              "RelativeToolTip": "04. Product Shop\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:36:11.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programming\\Programming Fundamentals C#\\7.Sets and Dictionaries Advanced\\08. SoftUni Party\\Program.cs",
+              "RelativeDocumentMoniker": "08. SoftUni Party\\Program.cs",
+              "ToolTip": "C:\\Programming\\Programming Fundamentals C#\\7.Sets and Dictionaries Advanced\\08. SoftUni Party\\Program.cs",
+              "RelativeToolTip": "08. SoftUni Party\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:37:00.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programming\\Programming Fundamentals C#\\7.Sets and Dictionaries Advanced\\05. Cities by Continent and Country\\Program.cs",
+              "RelativeDocumentMoniker": "05. Cities by Continent and Country\\Program.cs",
+              "ToolTip": "C:\\Programming\\Programming Fundamentals C#\\7.Sets and Dictionaries Advanced\\05. Cities by Continent and Country\\Program.cs",
+              "RelativeToolTip": "05. Cities by Continent and Country\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:36:23.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programming\\Programming Fundamentals C#\\7.Sets and Dictionaries Advanced\\06. Record Unique Names\\Program.cs",
+              "RelativeDocumentMoniker": "06. Record Unique Names\\Program.cs",
+              "ToolTip": "C:\\Programming\\Programming Fundamentals C#\\7.Sets and Dictionaries Advanced\\06. Record Unique Names\\Program.cs",
+              "RelativeToolTip": "06. Record Unique Names\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:36:36.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programming\\Programming Fundamentals C#\\7.Sets and Dictionaries Advanced\\03. Largest 3 Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "03. Largest 3 Numbers\\Program.cs",
+              "ToolTip": "C:\\Programming\\Programming Fundamentals C#\\7.Sets and Dictionaries Advanced\\03. Largest 3 Numbers\\Program.cs",
+              "RelativeToolTip": "03. Largest 3 Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:35:54.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programming\\Programming Fundamentals C#\\7.Sets and Dictionaries Advanced\\02. Average Student Grades\\Program.cs",
+              "RelativeDocumentMoniker": "02. Average Student Grades\\Program.cs",
+              "ToolTip": "C:\\Programming\\Programming Fundamentals C#\\7.Sets and Dictionaries Advanced\\02. Average Student Grades\\Program.cs",
+              "RelativeToolTip": "02. Average Student Grades\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:35:36.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programming\\Programming Fundamentals C#\\7.Sets and Dictionaries Advanced\\01. Count Same Values in Array\\Program.cs",
+              "RelativeDocumentMoniker": "01. Count Same Values in Array\\Program.cs",
+              "ToolTip": "C:\\Programming\\Programming Fundamentals C#\\7.Sets and Dictionaries Advanced\\01. Count Same Values in Array\\Program.cs",
+              "RelativeToolTip": "01. Count Same Values in Array\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:35:04.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

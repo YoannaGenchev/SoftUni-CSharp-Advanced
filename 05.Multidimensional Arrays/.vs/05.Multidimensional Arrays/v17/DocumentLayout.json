@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUni\\C# Advanced\\05.Multidimensional Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E1691D-F4A2-42EE-AB01-32CCF13F1A9B}|7. Pascal Triangle\\7. Pascal Triangle.csproj|c:\\softuni\\c# advanced\\05.multidimensional arrays\\7. pascal triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E1691D-F4A2-42EE-AB01-32CCF13F1A9B}|7. Pascal Triangle\\7. Pascal Triangle.csproj|solutionrelative:7. pascal triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F9C30E-210F-4825-951C-CC9044ED858C}|6. Jagged-Array Modification\\6. Jagged-Array Modification.csproj|c:\\softuni\\c# advanced\\05.multidimensional arrays\\6. jagged-array modification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F9C30E-210F-4825-951C-CC9044ED858C}|6. Jagged-Array Modification\\6. Jagged-Array Modification.csproj|solutionrelative:6. jagged-array modification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E68AAC6-3023-48EF-BF67-1746AA71A08B}|5. Square With Maximum Sum\\5. Square With Maximum Sum.csproj|c:\\softuni\\c# advanced\\05.multidimensional arrays\\5. square with maximum sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E68AAC6-3023-48EF-BF67-1746AA71A08B}|5. Square With Maximum Sum\\5. Square With Maximum Sum.csproj|solutionrelative:5. square with maximum sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E891BCBA-4BEB-45C3-BFBD-3BFC770282B4}|4. Symbol in Matrix\\4. Symbol in Matrix.csproj|c:\\softuni\\c# advanced\\05.multidimensional arrays\\4. symbol in matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E891BCBA-4BEB-45C3-BFBD-3BFC770282B4}|4. Symbol in Matrix\\4. Symbol in Matrix.csproj|solutionrelative:4. symbol in matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED69E6E4-360E-4CC4-9EA8-A9DB070E5114}|3. Primary Diagonal\\3. Primary Diagonal.csproj|c:\\softuni\\c# advanced\\05.multidimensional arrays\\3. primary diagonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED69E6E4-360E-4CC4-9EA8-A9DB070E5114}|3. Primary Diagonal\\3. Primary Diagonal.csproj|solutionrelative:3. primary diagonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2712C9-01CF-46F1-AD81-4F336BF164FE}|2. Sum Matrix Columns\\2. Sum Matrix Columns.csproj|c:\\softuni\\c# advanced\\05.multidimensional arrays\\2. sum matrix columns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2712C9-01CF-46F1-AD81-4F336BF164FE}|2. Sum Matrix Columns\\2. Sum Matrix Columns.csproj|solutionrelative:2. sum matrix columns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3B3DA-76C5-4F4F-9B43-8E77AC360B5E}|1. Sum Matrix Elements\\1. Sum Matrix Elements.csproj|c:\\softuni\\c# advanced\\05.multidimensional arrays\\1. sum matrix elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3B3DA-76C5-4F4F-9B43-8E77AC360B5E}|1. Sum Matrix Elements\\1. Sum Matrix Elements.csproj|solutionrelative:1. sum matrix elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\05.Multidimensional Arrays\\5. Square With Maximum Sum\\Program.cs",
+              "RelativeDocumentMoniker": "5. Square With Maximum Sum\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\05.Multidimensional Arrays\\5. Square With Maximum Sum\\Program.cs",
+              "RelativeToolTip": "5. Square With Maximum Sum\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:58:55.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\05.Multidimensional Arrays\\6. Jagged-Array Modification\\Program.cs",
+              "RelativeDocumentMoniker": "6. Jagged-Array Modification\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\05.Multidimensional Arrays\\6. Jagged-Array Modification\\Program.cs",
+              "RelativeToolTip": "6. Jagged-Array Modification\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:59:08.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\05.Multidimensional Arrays\\7. Pascal Triangle\\Program.cs",
+              "RelativeDocumentMoniker": "7. Pascal Triangle\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\05.Multidimensional Arrays\\7. Pascal Triangle\\Program.cs",
+              "RelativeToolTip": "7. Pascal Triangle\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:59:28.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\05.Multidimensional Arrays\\1. Sum Matrix Elements\\Program.cs",
+              "RelativeDocumentMoniker": "1. Sum Matrix Elements\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\05.Multidimensional Arrays\\1. Sum Matrix Elements\\Program.cs",
+              "RelativeToolTip": "1. Sum Matrix Elements\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:57:36.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\05.Multidimensional Arrays\\4. Symbol in Matrix\\Program.cs",
+              "RelativeDocumentMoniker": "4. Symbol in Matrix\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\05.Multidimensional Arrays\\4. Symbol in Matrix\\Program.cs",
+              "RelativeToolTip": "4. Symbol in Matrix\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:58:40.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\05.Multidimensional Arrays\\2. Sum Matrix Columns\\Program.cs",
+              "RelativeDocumentMoniker": "2. Sum Matrix Columns\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\05.Multidimensional Arrays\\2. Sum Matrix Columns\\Program.cs",
+              "RelativeToolTip": "2. Sum Matrix Columns\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:58:12.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\05.Multidimensional Arrays\\3. Primary Diagonal\\Program.cs",
+              "RelativeDocumentMoniker": "3. Primary Diagonal\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\05.Multidimensional Arrays\\3. Primary Diagonal\\Program.cs",
+              "RelativeToolTip": "3. Primary Diagonal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:58:28.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

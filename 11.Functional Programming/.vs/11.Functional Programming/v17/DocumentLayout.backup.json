@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUni\\C# Advanced\\11.Functional Programming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51BA3449-43DB-40DE-A2A3-9D3A22FF5CFD}|5.Filter by Age\\5.Filter by Age.csproj|c:\\softuni\\c# advanced\\11.functional programming\\5.filter by age\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BA3449-43DB-40DE-A2A3-9D3A22FF5CFD}|5.Filter by Age\\5.Filter by Age.csproj|solutionrelative:5.filter by age\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2DFC84-870C-416E-9015-4F0C5D5F88B8}|4.Add VAT\\4.Add VAT.csproj|c:\\softuni\\c# advanced\\11.functional programming\\4.add vat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2DFC84-870C-416E-9015-4F0C5D5F88B8}|4.Add VAT\\4.Add VAT.csproj|solutionrelative:4.add vat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B63D57-F202-481D-80FD-5C22FEBEA4D1}|3.Count Uppercase Words\\3.Count Uppercase Words.csproj|c:\\softuni\\c# advanced\\11.functional programming\\3.count uppercase words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B63D57-F202-481D-80FD-5C22FEBEA4D1}|3.Count Uppercase Words\\3.Count Uppercase Words.csproj|solutionrelative:3.count uppercase words\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F253C4-513D-41DD-A5F3-B1C39F71DC73}|2.Sum Numbers\\2.Sum Numbers.csproj|c:\\softuni\\c# advanced\\11.functional programming\\2.sum numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F253C4-513D-41DD-A5F3-B1C39F71DC73}|2.Sum Numbers\\2.Sum Numbers.csproj|solutionrelative:2.sum numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5962D220-97F9-46D8-9261-DE5B4566C6DC}|1.Sort Even Numbers\\1.Sort Even Numbers.csproj|c:\\softuni\\c# advanced\\11.functional programming\\1.sort even numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5962D220-97F9-46D8-9261-DE5B4566C6DC}|1.Sort Even Numbers\\1.Sort Even Numbers.csproj|solutionrelative:1.sort even numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\11.Functional Programming\\4.Add VAT\\Program.cs",
+              "RelativeDocumentMoniker": "4.Add VAT\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\11.Functional Programming\\4.Add VAT\\Program.cs",
+              "RelativeToolTip": "4.Add VAT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:30:34.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\11.Functional Programming\\2.Sum Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "2.Sum Numbers\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\11.Functional Programming\\2.Sum Numbers\\Program.cs",
+              "RelativeToolTip": "2.Sum Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:29:41.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\11.Functional Programming\\1.Sort Even Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "1.Sort Even Numbers\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\11.Functional Programming\\1.Sort Even Numbers\\Program.cs",
+              "RelativeToolTip": "1.Sort Even Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:29:03.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\11.Functional Programming\\5.Filter by Age\\Program.cs",
+              "RelativeDocumentMoniker": "5.Filter by Age\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\11.Functional Programming\\5.Filter by Age\\Program.cs",
+              "RelativeToolTip": "5.Filter by Age\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:30:56.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\11.Functional Programming\\3.Count Uppercase Words\\Program.cs",
+              "RelativeDocumentMoniker": "3.Count Uppercase Words\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\11.Functional Programming\\3.Count Uppercase Words\\Program.cs",
+              "RelativeToolTip": "3.Count Uppercase Words\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:30:09.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
