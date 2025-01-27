@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUni\\04. Exercise Stacks and Queues\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{810F6B0D-78D1-4621-BF07-0908A8FF4998}|09. Simple Text Editor\\09. Simple Text Editor.csproj|c:\\softuni\\04. exercise stacks and queues\\09. simple text editor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810F6B0D-78D1-4621-BF07-0908A8FF4998}|09. Simple Text Editor\\09. Simple Text Editor.csproj|solutionrelative:09. simple text editor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA77BF5F-64B2-45EF-82CE-333C36964A42}|08. Balanced Parenthesis\\08. Balanced Parenthesis.csproj|c:\\softuni\\04. exercise stacks and queues\\08. balanced parenthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA77BF5F-64B2-45EF-82CE-333C36964A42}|08. Balanced Parenthesis\\08. Balanced Parenthesis.csproj|solutionrelative:08. balanced parenthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48C6CA7-1455-4DDE-98A6-ED42F98E38EE}|07. Truck Tour\\07. Truck Tour.csproj|c:\\softuni\\04. exercise stacks and queues\\07. truck tour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48C6CA7-1455-4DDE-98A6-ED42F98E38EE}|07. Truck Tour\\07. Truck Tour.csproj|solutionrelative:07. truck tour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E019F864-1C49-468B-83B6-95C07A97518C}|06. Songs Queue\\06. Songs Queue.csproj|c:\\softuni\\04. exercise stacks and queues\\06. songs queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E019F864-1C49-468B-83B6-95C07A97518C}|06. Songs Queue\\06. Songs Queue.csproj|solutionrelative:06. songs queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A3EC8B-C54C-492C-A52F-79B2B359D01B}|05. Fashion Boutique\\05. Fashion Boutique.csproj|c:\\softuni\\04. exercise stacks and queues\\05. fashion boutique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A3EC8B-C54C-492C-A52F-79B2B359D01B}|05. Fashion Boutique\\05. Fashion Boutique.csproj|solutionrelative:05. fashion boutique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C21AE65-8A24-4B5E-BBC8-6D2653A9CF3C}|04. Fast Food\\04. Fast Food.csproj|c:\\softuni\\04. exercise stacks and queues\\04. fast food\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C21AE65-8A24-4B5E-BBC8-6D2653A9CF3C}|04. Fast Food\\04. Fast Food.csproj|solutionrelative:04. fast food\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C093C0-AE84-4E0E-AB2C-C4C38623596C}|03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj|c:\\softuni\\04. exercise stacks and queues\\03. maximum and minimum element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C093C0-AE84-4E0E-AB2C-C4C38623596C}|03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj|solutionrelative:03. maximum and minimum element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FA8F94-89E8-4B3A-AC1F-0F84A502AFCB}|02. Basic Queue Operations\\02. Basic Queue Operations.csproj|c:\\softuni\\04. exercise stacks and queues\\02. basic queue operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FA8F94-89E8-4B3A-AC1F-0F84A502AFCB}|02. Basic Queue Operations\\02. Basic Queue Operations.csproj|solutionrelative:02. basic queue operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE587716-4AE7-4F97-878E-4D6137F266B8}|01. Basic Stack Operations\\01. Basic Stack Operations.csproj|c:\\softuni\\04. exercise stacks and queues\\01. basic stack operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE587716-4AE7-4F97-878E-4D6137F266B8}|01. Basic Stack Operations\\01. Basic Stack Operations.csproj|solutionrelative:01. basic stack operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SoftUni\\C# Advanced\\04. Exercise Stacks and Queues\\10. Crossroads\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SoftUni\\C# Advanced\\04. Exercise Stacks and Queues\\11. Key Revolver\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SoftUni\\C# Advanced\\04. Exercise Stacks and Queues\\12. Cups and Bottles\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\04. Exercise Stacks and Queues\\10. Crossroads\\Program.cs",
+              "RelativeDocumentMoniker": "..\\C# Advanced\\04. Exercise Stacks and Queues\\10. Crossroads\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\04. Exercise Stacks and Queues\\10. Crossroads\\Program.cs",
+              "RelativeToolTip": "..\\C# Advanced\\04. Exercise Stacks and Queues\\10. Crossroads\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:40:32.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\04. Exercise Stacks and Queues\\09. Simple Text Editor\\Program.cs",
+              "RelativeDocumentMoniker": "09. Simple Text Editor\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\04. Exercise Stacks and Queues\\09. Simple Text Editor\\Program.cs",
+              "RelativeToolTip": "09. Simple Text Editor\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:40:01.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\04. Exercise Stacks and Queues\\08. Balanced Parenthesis\\Program.cs",
+              "RelativeDocumentMoniker": "08. Balanced Parenthesis\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\04. Exercise Stacks and Queues\\08. Balanced Parenthesis\\Program.cs",
+              "RelativeToolTip": "08. Balanced Parenthesis\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:39:41.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\04. Exercise Stacks and Queues\\07. Truck Tour\\Program.cs",
+              "RelativeDocumentMoniker": "07. Truck Tour\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\04. Exercise Stacks and Queues\\07. Truck Tour\\Program.cs",
+              "RelativeToolTip": "07. Truck Tour\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:39:25.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\04. Exercise Stacks and Queues\\06. Songs Queue\\Program.cs",
+              "RelativeDocumentMoniker": "06. Songs Queue\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\04. Exercise Stacks and Queues\\06. Songs Queue\\Program.cs",
+              "RelativeToolTip": "06. Songs Queue\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:39:07.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\04. Exercise Stacks and Queues\\02. Basic Queue Operations\\Program.cs",
+              "RelativeDocumentMoniker": "02. Basic Queue Operations\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\04. Exercise Stacks and Queues\\02. Basic Queue Operations\\Program.cs",
+              "RelativeToolTip": "02. Basic Queue Operations\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:37:53.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\04. Exercise Stacks and Queues\\03. Maximum and Minimum Element\\Program.cs",
+              "RelativeDocumentMoniker": "03. Maximum and Minimum Element\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\04. Exercise Stacks and Queues\\03. Maximum and Minimum Element\\Program.cs",
+              "RelativeToolTip": "03. Maximum and Minimum Element\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:38:16.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\04. Exercise Stacks and Queues\\04. Fast Food\\Program.cs",
+              "RelativeDocumentMoniker": "04. Fast Food\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\04. Exercise Stacks and Queues\\04. Fast Food\\Program.cs",
+              "RelativeToolTip": "04. Fast Food\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA0wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:38:33.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\04. Exercise Stacks and Queues\\05. Fashion Boutique\\Program.cs",
+              "RelativeDocumentMoniker": "05. Fashion Boutique\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\04. Exercise Stacks and Queues\\05. Fashion Boutique\\Program.cs",
+              "RelativeToolTip": "05. Fashion Boutique\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:38:51.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\04. Exercise Stacks and Queues\\11. Key Revolver\\Program.cs",
+              "RelativeDocumentMoniker": "..\\C# Advanced\\04. Exercise Stacks and Queues\\11. Key Revolver\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\04. Exercise Stacks and Queues\\11. Key Revolver\\Program.cs",
+              "RelativeToolTip": "..\\C# Advanced\\04. Exercise Stacks and Queues\\11. Key Revolver\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:40:49.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\04. Exercise Stacks and Queues\\12. Cups and Bottles\\Program.cs",
+              "RelativeDocumentMoniker": "..\\C# Advanced\\04. Exercise Stacks and Queues\\12. Cups and Bottles\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\04. Exercise Stacks and Queues\\12. Cups and Bottles\\Program.cs",
+              "RelativeToolTip": "..\\C# Advanced\\04. Exercise Stacks and Queues\\12. Cups and Bottles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:41:06.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\04. Exercise Stacks and Queues\\01. Basic Stack Operations\\Program.cs",
+              "RelativeDocumentMoniker": "01. Basic Stack Operations\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\04. Exercise Stacks and Queues\\01. Basic Stack Operations\\Program.cs",
+              "RelativeToolTip": "01. Basic Stack Operations\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:37:20.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
