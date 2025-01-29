@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{811B972F-1A21-406A-B75E-1306F3022EF8}|10. Radioactive Mutant Vampire Bunnies\\10. Radioactive Mutant Vampire Bunnies.csproj|c:\\softuni\\c# advanced\\06.exercisemultidimensional arrays\\10. radioactive mutant vampire bunnies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811B972F-1A21-406A-B75E-1306F3022EF8}|10. Radioactive Mutant Vampire Bunnies\\10. Radioactive Mutant Vampire Bunnies.csproj|solutionrelative:10. radioactive mutant vampire bunnies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744E8DB1-69C1-4F69-9445-8E81C45AB347}|9. Miner\\9. Miner.csproj|c:\\softuni\\c# advanced\\06.exercisemultidimensional arrays\\9. miner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744E8DB1-69C1-4F69-9445-8E81C45AB347}|9. Miner\\9. Miner.csproj|solutionrelative:9. miner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409334AA-EE35-4852-A87A-48F7AE4DEC24}|8. Bombs\\8. Bombs.csproj|c:\\softuni\\c# advanced\\06.exercisemultidimensional arrays\\8. bombs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409334AA-EE35-4852-A87A-48F7AE4DEC24}|8. Bombs\\8. Bombs.csproj|solutionrelative:8. bombs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895E1906-332C-4CFC-BD57-A931154BC162}|7. Knight Game\\7. Knight Game.csproj|c:\\softuni\\c# advanced\\06.exercisemultidimensional arrays\\7. knight game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895E1906-332C-4CFC-BD57-A931154BC162}|7. Knight Game\\7. Knight Game.csproj|solutionrelative:7. knight game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0C3077-0B3B-44D9-8A5A-CFBF3070590D}|6. Jagged Array Manipulator\\6. Jagged Array Manipulator.csproj|c:\\softuni\\c# advanced\\06.exercisemultidimensional arrays\\6. jagged array manipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0C3077-0B3B-44D9-8A5A-CFBF3070590D}|6. Jagged Array Manipulator\\6. Jagged Array Manipulator.csproj|solutionrelative:6. jagged array manipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3465E1A-E54B-4884-9FA0-956EC02908D4}|5. Snake Moves\\5. Snake Moves.csproj|c:\\softuni\\c# advanced\\06.exercisemultidimensional arrays\\5. snake moves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3465E1A-E54B-4884-9FA0-956EC02908D4}|5. Snake Moves\\5. Snake Moves.csproj|solutionrelative:5. snake moves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540F2F56-3B14-48F3-997D-ACE9C1263E47}|4. Matrix Shuffling\\4. Matrix Shuffling.csproj|c:\\softuni\\c# advanced\\06.exercisemultidimensional arrays\\4. matrix shuffling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540F2F56-3B14-48F3-997D-ACE9C1263E47}|4. Matrix Shuffling\\4. Matrix Shuffling.csproj|solutionrelative:4. matrix shuffling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12AFFCD-F679-4356-BFEA-CA336E222BDB}|3. Maximal Sum\\3. Maximal Sum.csproj|c:\\softuni\\c# advanced\\06.exercisemultidimensional arrays\\3. maximal sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12AFFCD-F679-4356-BFEA-CA336E222BDB}|3. Maximal Sum\\3. Maximal Sum.csproj|solutionrelative:3. maximal sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE83D4-DA6B-4BF6-8438-7130C100DFFA}|2. Squares in Matrix\\2. Squares in Matrix.csproj|c:\\softuni\\c# advanced\\06.exercisemultidimensional arrays\\2. squares in matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE83D4-DA6B-4BF6-8438-7130C100DFFA}|2. Squares in Matrix\\2. Squares in Matrix.csproj|solutionrelative:2. squares in matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB0BB9B-3079-4E76-8946-62F85C6B226A}|1. Diagonal Difference\\1. Diagonal Difference.csproj|c:\\softuni\\c# advanced\\06.exercisemultidimensional arrays\\1. diagonal difference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB0BB9B-3079-4E76-8946-62F85C6B226A}|1. Diagonal Difference\\1. Diagonal Difference.csproj|solutionrelative:1. diagonal difference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\10. Radioactive Mutant Vampire Bunnies\\Program.cs",
+              "RelativeDocumentMoniker": "10. Radioactive Mutant Vampire Bunnies\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\10. Radioactive Mutant Vampire Bunnies\\Program.cs",
+              "RelativeToolTip": "10. Radioactive Mutant Vampire Bunnies\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:18:52.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\9. Miner\\Program.cs",
+              "RelativeDocumentMoniker": "9. Miner\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\9. Miner\\Program.cs",
+              "RelativeToolTip": "9. Miner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:18:29.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\8. Bombs\\Program.cs",
+              "RelativeDocumentMoniker": "8. Bombs\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\8. Bombs\\Program.cs",
+              "RelativeToolTip": "8. Bombs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:18:08.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\7. Knight Game\\Program.cs",
+              "RelativeDocumentMoniker": "7. Knight Game\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\7. Knight Game\\Program.cs",
+              "RelativeToolTip": "7. Knight Game\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:17:33.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\6. Jagged Array Manipulator\\Program.cs",
+              "RelativeDocumentMoniker": "6. Jagged Array Manipulator\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\6. Jagged Array Manipulator\\Program.cs",
+              "RelativeToolTip": "6. Jagged Array Manipulator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:17:15.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\5. Snake Moves\\Program.cs",
+              "RelativeDocumentMoniker": "5. Snake Moves\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\5. Snake Moves\\Program.cs",
+              "RelativeToolTip": "5. Snake Moves\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:16:56.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\4. Matrix Shuffling\\Program.cs",
+              "RelativeDocumentMoniker": "4. Matrix Shuffling\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\4. Matrix Shuffling\\Program.cs",
+              "RelativeToolTip": "4. Matrix Shuffling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:16:35.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\3. Maximal Sum\\Program.cs",
+              "RelativeDocumentMoniker": "3. Maximal Sum\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\3. Maximal Sum\\Program.cs",
+              "RelativeToolTip": "3. Maximal Sum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:16:17.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\2. Squares in Matrix\\Program.cs",
+              "RelativeDocumentMoniker": "2. Squares in Matrix\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\2. Squares in Matrix\\Program.cs",
+              "RelativeToolTip": "2. Squares in Matrix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:16:01.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\1. Diagonal Difference\\Program.cs",
+              "RelativeDocumentMoniker": "1. Diagonal Difference\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\06.ExerciseMultidimensional Arrays\\1. Diagonal Difference\\Program.cs",
+              "RelativeToolTip": "1. Diagonal Difference\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:15:18.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
