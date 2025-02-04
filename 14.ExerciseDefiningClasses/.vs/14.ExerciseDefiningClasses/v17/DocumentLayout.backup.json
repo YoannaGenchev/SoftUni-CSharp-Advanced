@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1030A9-0274-4A26-ACBC-C9853F6853A2}|8. Car Salesman\\8. Car Salesman.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\8. car salesman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1030A9-0274-4A26-ACBC-C9853F6853A2}|8. Car Salesman\\8. Car Salesman.csproj|solutionrelative:8. car salesman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1030A9-0274-4A26-ACBC-C9853F6853A2}|8. Car Salesman\\8.CarSalesman.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\8. car salesman\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1030A9-0274-4A26-ACBC-C9853F6853A2}|8. Car Salesman\\8.CarSalesman.csproj|solutionrelative:8. car salesman\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1030A9-0274-4A26-ACBC-C9853F6853A2}|8. Car Salesman\\8.CarSalesman.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\8. car salesman\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1030A9-0274-4A26-ACBC-C9853F6853A2}|8. Car Salesman\\8.CarSalesman.csproj|solutionrelative:8. car salesman\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904418EE-E243-4ABA-8F17-4F32905DC038}|7. Raw Data\\7.RawData.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\7. raw data\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904418EE-E243-4ABA-8F17-4F32905DC038}|7. Raw Data\\7.RawData.csproj|solutionrelative:7. raw data\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904418EE-E243-4ABA-8F17-4F32905DC038}|7. Raw Data\\7.RawData.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\7. raw data\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904418EE-E243-4ABA-8F17-4F32905DC038}|7. Raw Data\\7.RawData.csproj|solutionrelative:7. raw data\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0984171C-A6BF-4CFC-9DD5-EE57932732ED}|10. SoftUni Parking\\10.SoftUniParking.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\10. softuni parking\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0984171C-A6BF-4CFC-9DD5-EE57932732ED}|10. SoftUni Parking\\10.SoftUniParking.csproj|solutionrelative:10. softuni parking\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0984171C-A6BF-4CFC-9DD5-EE57932732ED}|10. SoftUni Parking\\10.SoftUniParking.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\10. softuni parking\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0984171C-A6BF-4CFC-9DD5-EE57932732ED}|10. SoftUni Parking\\10.SoftUniParking.csproj|solutionrelative:10. softuni parking\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0984171C-A6BF-4CFC-9DD5-EE57932732ED}|10. SoftUni Parking\\10.SoftUniParking.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\10. softuni parking\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0984171C-A6BF-4CFC-9DD5-EE57932732ED}|10. SoftUni Parking\\10.SoftUniParking.csproj|solutionrelative:10. softuni parking\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904418EE-E243-4ABA-8F17-4F32905DC038}|7. Raw Data\\7. Raw Data.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\7. raw data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904418EE-E243-4ABA-8F17-4F32905DC038}|7. Raw Data\\7. Raw Data.csproj|solutionrelative:7. raw data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904418EE-E243-4ABA-8F17-4F32905DC038}|7. Raw Data\\7.RawData.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\7. raw data\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904418EE-E243-4ABA-8F17-4F32905DC038}|7. Raw Data\\7.RawData.csproj|solutionrelative:7. raw data\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904418EE-E243-4ABA-8F17-4F32905DC038}|7. Raw Data\\7.RawData.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\7. raw data\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904418EE-E243-4ABA-8F17-4F32905DC038}|7. Raw Data\\7.RawData.csproj|solutionrelative:7. raw data\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC6F98B-5191-4ACF-B9B1-4100781738C6}|6. Speed Racing\\6.SpeedRacing.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\6. speed racing\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC6F98B-5191-4ACF-B9B1-4100781738C6}|6. Speed Racing\\6.SpeedRacing.csproj|solutionrelative:6. speed racing\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC6F98B-5191-4ACF-B9B1-4100781738C6}|6. Speed Racing\\6. Speed Racing.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\6. speed racing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC6F98B-5191-4ACF-B9B1-4100781738C6}|6. Speed Racing\\6. Speed Racing.csproj|solutionrelative:6. speed racing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904418EE-E243-4ABA-8F17-4F32905DC038}|7. Raw Data\\7.RawData.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\7. raw data\\7.rawdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{904418EE-E243-4ABA-8F17-4F32905DC038}|7. Raw Data\\7.RawData.csproj|solutionrelative:7. raw data\\7.rawdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69ED0BA6-DC1C-4404-B88C-CC45396BBC6D}|2. Creating Constructors\\2. Creating Constructors.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\2. creating constructors\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69ED0BA6-DC1C-4404-B88C-CC45396BBC6D}|2. Creating Constructors\\2. Creating Constructors.csproj|solutionrelative:2. creating constructors\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69ED0BA6-DC1C-4404-B88C-CC45396BBC6D}|2. Creating Constructors\\2. Creating Constructors.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\2. creating constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69ED0BA6-DC1C-4404-B88C-CC45396BBC6D}|2. Creating Constructors\\2. Creating Constructors.csproj|solutionrelative:2. creating constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCEB30A-663B-4057-94A4-882C0A981ACD}|1. Define a Class Person\\1. Define a Class Person.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\1. define a class person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCEB30A-663B-4057-94A4-882C0A981ACD}|1. Define a Class Person\\1. Define a Class Person.csproj|solutionrelative:1. define a class person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69ED0BA6-DC1C-4404-B88C-CC45396BBC6D}|2. Creating Constructors\\2. Creating Constructors.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\2. creating constructors\\2. creating constructors.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69ED0BA6-DC1C-4404-B88C-CC45396BBC6D}|2. Creating Constructors\\2. Creating Constructors.csproj|solutionrelative:2. creating constructors\\2. creating constructors.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCEB30A-663B-4057-94A4-882C0A981ACD}|1. Define a Class Person\\1. Define a Class Person.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\1. define a class person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCEB30A-663B-4057-94A4-882C0A981ACD}|1. Define a Class Person\\1. Define a Class Person.csproj|solutionrelative:1. define a class person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCEB30A-663B-4057-94A4-882C0A981ACD}|1. Define a Class Person\\1. Define a Class Person.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\1. define a class person\\1. define a class person.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDCEB30A-663B-4057-94A4-882C0A981ACD}|1. Define a Class Person\\1. Define a Class Person.csproj|solutionrelative:1. define a class person\\1. define a class person.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EFCE28-763C-4609-8B1D-864452B90A51}|4. Opinion Poll\\4. Opinion Poll.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\4. opinion poll\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EFCE28-763C-4609-8B1D-864452B90A51}|4. Opinion Poll\\4. Opinion Poll.csproj|solutionrelative:4. opinion poll\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EFCE28-763C-4609-8B1D-864452B90A51}|4. Opinion Poll\\4. Opinion Poll.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\4. opinion poll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EFCE28-763C-4609-8B1D-864452B90A51}|4. Opinion Poll\\4. Opinion Poll.csproj|solutionrelative:4. opinion poll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE81C28A-58E8-427C-992F-F4E63A530944}|5. Date Modifier\\5. Date Modifier.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\5. date modifier\\datemodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE81C28A-58E8-427C-992F-F4E63A530944}|5. Date Modifier\\5. Date Modifier.csproj|solutionrelative:5. date modifier\\datemodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE81C28A-58E8-427C-992F-F4E63A530944}|5. Date Modifier\\5. Date Modifier.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\5. date modifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE81C28A-58E8-427C-992F-F4E63A530944}|5. Date Modifier\\5. Date Modifier.csproj|solutionrelative:5. date modifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E43A42C-BD7E-4896-8200-6028F1DA08A9}|3. Oldest Family Member\\3.OldestFamilyMember.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\3. oldest family member\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E43A42C-BD7E-4896-8200-6028F1DA08A9}|3. Oldest Family Member\\3.OldestFamilyMember.csproj|solutionrelative:3. oldest family member\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E43A42C-BD7E-4896-8200-6028F1DA08A9}|3. Oldest Family Member\\3.OldestFamilyMember.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\3. oldest family member\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E43A42C-BD7E-4896-8200-6028F1DA08A9}|3. Oldest Family Member\\3.OldestFamilyMember.csproj|solutionrelative:3. oldest family member\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0984171C-A6BF-4CFC-9DD5-EE57932732ED}|10. SoftUni Parking\\10.SoftUniParking.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\10. softuni parking\\10.softuniparking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0984171C-A6BF-4CFC-9DD5-EE57932732ED}|10. SoftUni Parking\\10.SoftUniParking.csproj|solutionrelative:10. softuni parking\\10.softuniparking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E43A42C-BD7E-4896-8200-6028F1DA08A9}|3. Oldest Family Member\\3.OldestFamilyMember.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\3. oldest family member\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E43A42C-BD7E-4896-8200-6028F1DA08A9}|3. Oldest Family Member\\3.OldestFamilyMember.csproj|solutionrelative:3. oldest family member\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1030A9-0274-4A26-ACBC-C9853F6853A2}|8. Car Salesman\\8.CarSalesman.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\8. car salesman\\8.carsalesman.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC1030A9-0274-4A26-ACBC-C9853F6853A2}|8. Car Salesman\\8.CarSalesman.csproj|solutionrelative:8. car salesman\\8.carsalesman.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB6808-5068-4D39-9E16-FA149723A9F3}|9. Pokemon Trainer\\9.PokemonTrainer.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\9. pokemon trainer\\9.pokemontrainer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DBB6808-5068-4D39-9E16-FA149723A9F3}|9. Pokemon Trainer\\9.PokemonTrainer.csproj|solutionrelative:9. pokemon trainer\\9.pokemontrainer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC6F98B-5191-4ACF-B9B1-4100781738C6}|6. Speed Racing\\6.SpeedRacing.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\6. speed racing\\6.speedracing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EC6F98B-5191-4ACF-B9B1-4100781738C6}|6. Speed Racing\\6.SpeedRacing.csproj|solutionrelative:6. speed racing\\6.speedracing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB6808-5068-4D39-9E16-FA149723A9F3}|9. Pokemon Trainer\\9. Pokemon Trainer.csproj|c:\\softuni\\c# advanced\\14.exercisedefiningclasses\\9. pokemon trainer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBB6808-5068-4D39-9E16-FA149723A9F3}|9. Pokemon Trainer\\9. Pokemon Trainer.csproj|solutionrelative:9. pokemon trainer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\8. Car Salesman\\Car.cs",
+              "RelativeDocumentMoniker": "8. Car Salesman\\Car.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\8. Car Salesman\\Car.cs*",
+              "RelativeToolTip": "8. Car Salesman\\Car.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:30:04.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\7. Raw Data\\Car.cs",
+              "RelativeDocumentMoniker": "7. Raw Data\\Car.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\7. Raw Data\\Car.cs",
+              "RelativeToolTip": "7. Raw Data\\Car.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:30:49.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\7. Raw Data\\Engine.cs",
+              "RelativeDocumentMoniker": "7. Raw Data\\Engine.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\7. Raw Data\\Engine.cs",
+              "RelativeToolTip": "7. Raw Data\\Engine.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:26:01.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\8. Car Salesman\\Engine.cs",
+              "RelativeDocumentMoniker": "8. Car Salesman\\Engine.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\8. Car Salesman\\Engine.cs*",
+              "RelativeToolTip": "8. Car Salesman\\Engine.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:30:18.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\10. SoftUni Parking\\StartUp.cs",
+              "RelativeDocumentMoniker": "10. SoftUni Parking\\StartUp.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\10. SoftUni Parking\\StartUp.cs",
+              "RelativeToolTip": "10. SoftUni Parking\\StartUp.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:00:18.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\6. Speed Racing\\Program.cs",
+              "RelativeDocumentMoniker": "6. Speed Racing\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\6. Speed Racing\\Program.cs",
+              "RelativeToolTip": "6. Speed Racing\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:19:23.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\8. Car Salesman\\Program.cs",
+              "RelativeDocumentMoniker": "8. Car Salesman\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\8. Car Salesman\\Program.cs",
+              "RelativeToolTip": "8. Car Salesman\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:19:57.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tire.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\7. Raw Data\\Tire.cs",
+              "RelativeDocumentMoniker": "7. Raw Data\\Tire.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\7. Raw Data\\Tire.cs",
+              "RelativeToolTip": "7. Raw Data\\Tire.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:28:18.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\7. Raw Data\\Cargo.cs",
+              "RelativeDocumentMoniker": "7. Raw Data\\Cargo.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\7. Raw Data\\Cargo.cs",
+              "RelativeToolTip": "7. Raw Data\\Cargo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:33:26.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\7. Raw Data\\Program.cs",
+              "RelativeDocumentMoniker": "7. Raw Data\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\7. Raw Data\\Program.cs",
+              "RelativeToolTip": "7. Raw Data\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAawCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:19:41.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\4. Opinion Poll\\Program.cs",
+              "RelativeDocumentMoniker": "4. Opinion Poll\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\4. Opinion Poll\\Program.cs",
+              "RelativeToolTip": "4. Opinion Poll\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:18:51.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\6. Speed Racing\\Car.cs",
+              "RelativeDocumentMoniker": "6. Speed Racing\\Car.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\6. Speed Racing\\Car.cs",
+              "RelativeToolTip": "6. Speed Racing\\Car.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAEwCsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:59:48.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Parking.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\10. SoftUni Parking\\Parking.cs",
+              "RelativeDocumentMoniker": "10. SoftUni Parking\\Parking.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\10. SoftUni Parking\\Parking.cs",
+              "RelativeToolTip": "10. SoftUni Parking\\Parking.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwBkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:05:28.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\4. Opinion Poll\\Person.cs",
+              "RelativeDocumentMoniker": "4. Opinion Poll\\Person.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\4. Opinion Poll\\Person.cs",
+              "RelativeToolTip": "4. Opinion Poll\\Person.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:10:56.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\10. SoftUni Parking\\Car.cs",
+              "RelativeDocumentMoniker": "10. SoftUni Parking\\Car.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\10. SoftUni Parking\\Car.cs",
+              "RelativeToolTip": "10. SoftUni Parking\\Car.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:01:23.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\5. Date Modifier\\Program.cs",
+              "RelativeDocumentMoniker": "5. Date Modifier\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\5. Date Modifier\\Program.cs",
+              "RelativeToolTip": "5. Date Modifier\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:19:09.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DateModifier.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\5. Date Modifier\\DateModifier.cs",
+              "RelativeDocumentMoniker": "5. Date Modifier\\DateModifier.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\5. Date Modifier\\DateModifier.cs",
+              "RelativeToolTip": "5. Date Modifier\\DateModifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:57:15.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "7. Raw Data.csproj",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\7. Raw Data\\7.RawData.csproj",
+              "RelativeDocumentMoniker": "7. Raw Data\\7.RawData.csproj",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\7. Raw Data\\7.RawData.csproj",
+              "RelativeToolTip": "7. Raw Data\\7.RawData.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T14:29:16.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "2. Creating Constructors.csproj",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\2. Creating Constructors\\2. Creating Constructors.csproj",
+              "RelativeDocumentMoniker": "2. Creating Constructors\\2. Creating Constructors.csproj",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\2. Creating Constructors\\2. Creating Constructors.csproj",
+              "RelativeToolTip": "2. Creating Constructors\\2. Creating Constructors.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T14:28:51.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\3. Oldest Family Member\\StartUp.cs",
+              "RelativeDocumentMoniker": "3. Oldest Family Member\\StartUp.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\3. Oldest Family Member\\StartUp.cs",
+              "RelativeToolTip": "3. Oldest Family Member\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:04:33.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\1. Define a Class Person\\Person.cs",
+              "RelativeDocumentMoniker": "1. Define a Class Person\\Person.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\1. Define a Class Person\\Person.cs",
+              "RelativeToolTip": "1. Define a Class Person\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:37:00.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "1. Define a Class Person.csproj",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\1. Define a Class Person\\1. Define a Class Person.csproj",
+              "RelativeDocumentMoniker": "1. Define a Class Person\\1. Define a Class Person.csproj",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\1. Define a Class Person\\1. Define a Class Person.csproj",
+              "RelativeToolTip": "1. Define a Class Person\\1. Define a Class Person.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T14:28:39.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\3. Oldest Family Member\\Person.cs",
+              "RelativeDocumentMoniker": "3. Oldest Family Member\\Person.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\3. Oldest Family Member\\Person.cs",
+              "RelativeToolTip": "3. Oldest Family Member\\Person.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:56:37.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "10. SoftUni Parking.csproj",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\10. SoftUni Parking\\10.SoftUniParking.csproj",
+              "RelativeDocumentMoniker": "10. SoftUni Parking\\10.SoftUniParking.csproj",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\10. SoftUni Parking\\10.SoftUniParking.csproj",
+              "RelativeToolTip": "10. SoftUni Parking\\10.SoftUniParking.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T14:28:44.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Family.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\3. Oldest Family Member\\Family.cs",
+              "RelativeDocumentMoniker": "3. Oldest Family Member\\Family.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\3. Oldest Family Member\\Family.cs",
+              "RelativeToolTip": "3. Oldest Family Member\\Family.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:56:55.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\2. Creating Constructors\\Person.cs",
+              "RelativeDocumentMoniker": "2. Creating Constructors\\Person.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\2. Creating Constructors\\Person.cs",
+              "RelativeToolTip": "2. Creating Constructors\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:40:10.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\2. Creating Constructors\\Program.cs",
+              "RelativeDocumentMoniker": "2. Creating Constructors\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\2. Creating Constructors\\Program.cs",
+              "RelativeToolTip": "2. Creating Constructors\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:18:10.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\1. Define a Class Person\\StartUp.cs",
+              "RelativeDocumentMoniker": "1. Define a Class Person\\StartUp.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\1. Define a Class Person\\StartUp.cs",
+              "RelativeToolTip": "1. Define a Class Person\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:16:02.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "8. Car Salesman.csproj",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\8. Car Salesman\\8.CarSalesman.csproj",
+              "RelativeDocumentMoniker": "8. Car Salesman\\8.CarSalesman.csproj",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\8. Car Salesman\\8.CarSalesman.csproj",
+              "RelativeToolTip": "8. Car Salesman\\8.CarSalesman.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T14:29:23.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "9. Pokemon Trainer.csproj",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\9. Pokemon Trainer\\9.PokemonTrainer.csproj",
+              "RelativeDocumentMoniker": "9. Pokemon Trainer\\9.PokemonTrainer.csproj",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\9. Pokemon Trainer\\9.PokemonTrainer.csproj",
+              "RelativeToolTip": "9. Pokemon Trainer\\9.PokemonTrainer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T14:29:29.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "6. Speed Racing.csproj",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\6. Speed Racing\\6.SpeedRacing.csproj",
+              "RelativeDocumentMoniker": "6. Speed Racing\\6.SpeedRacing.csproj",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\6. Speed Racing\\6.SpeedRacing.csproj",
+              "RelativeToolTip": "6. Speed Racing\\6.SpeedRacing.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T14:29:10.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\9. Pokemon Trainer\\Program.cs",
+              "RelativeDocumentMoniker": "9. Pokemon Trainer\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\14.ExerciseDefiningClasses\\9. Pokemon Trainer\\Program.cs",
+              "RelativeToolTip": "9. Pokemon Trainer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:20:12.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
