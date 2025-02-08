@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace BoxOfT
 {
-    public class BoxOfT<T>
+    public class Box<T>
     {
         private Stack<T> box;
 
-        public BoxOfT()
+        public Box()
         {
             box = new Stack<T>();
         }
