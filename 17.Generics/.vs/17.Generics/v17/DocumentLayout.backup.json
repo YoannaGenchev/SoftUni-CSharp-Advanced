@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUni\\C# Advanced\\17.Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE04C31-F36A-48D7-A293-BDC43AB5A4BE}|1. Box of T\\1. Box of T.csproj|c:\\softuni\\c# advanced\\17.generics\\1. box of t\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE04C31-F36A-48D7-A293-BDC43AB5A4BE}|1. Box of T\\1. Box of T.csproj|solutionrelative:1. box of t\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685778B9-E3FA-48F9-8053-10D76D599DD8}|2. Generic Array Creator\\2. Generic Array Creator.csproj|c:\\softuni\\c# advanced\\17.generics\\2. generic array creator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685778B9-E3FA-48F9-8053-10D76D599DD8}|2. Generic Array Creator\\2. Generic Array Creator.csproj|solutionrelative:2. generic array creator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685778B9-E3FA-48F9-8053-10D76D599DD8}|2. Generic Array Creator\\2. Generic Array Creator.csproj|c:\\softuni\\c# advanced\\17.generics\\2. generic array creator\\arraycreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685778B9-E3FA-48F9-8053-10D76D599DD8}|2. Generic Array Creator\\2. Generic Array Creator.csproj|solutionrelative:2. generic array creator\\arraycreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE04C31-F36A-48D7-A293-BDC43AB5A4BE}|1. Box of T\\1. Box of T.csproj|c:\\softuni\\c# advanced\\17.generics\\1. box of t\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE04C31-F36A-48D7-A293-BDC43AB5A4BE}|1. Box of T\\1. Box of T.csproj|solutionrelative:1. box of t\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF342C76-5F7E-4CB3-9883-376A26F75094}|3. Generic Scale\\3. Generic Scale.csproj|c:\\softuni\\c# advanced\\17.generics\\3. generic scale\\equalityscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF342C76-5F7E-4CB3-9883-376A26F75094}|3. Generic Scale\\3. Generic Scale.csproj|solutionrelative:3. generic scale\\equalityscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF342C76-5F7E-4CB3-9883-376A26F75094}|3. Generic Scale\\3. Generic Scale.csproj|c:\\softuni\\c# advanced\\17.generics\\3. generic scale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF342C76-5F7E-4CB3-9883-376A26F75094}|3. Generic Scale\\3. Generic Scale.csproj|solutionrelative:3. generic scale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF342C76-5F7E-4CB3-9883-376A26F75094}|3. Generic Scale\\3. Generic Scale.csproj|c:\\softuni\\c# advanced\\17.generics\\3. generic scale\\3. generic scale.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF342C76-5F7E-4CB3-9883-376A26F75094}|3. Generic Scale\\3. Generic Scale.csproj|solutionrelative:3. generic scale\\3. generic scale.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\17.Generics\\1. Box of T\\Program.cs",
+              "RelativeDocumentMoniker": "1. Box of T\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\17.Generics\\1. Box of T\\Program.cs",
+              "RelativeToolTip": "1. Box of T\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:24:04.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayCreator.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\17.Generics\\2. Generic Array Creator\\ArrayCreator.cs",
+              "RelativeDocumentMoniker": "2. Generic Array Creator\\ArrayCreator.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\17.Generics\\2. Generic Array Creator\\ArrayCreator.cs",
+              "RelativeToolTip": "2. Generic Array Creator\\ArrayCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:28:14.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\17.Generics\\2. Generic Array Creator\\Program.cs",
+              "RelativeDocumentMoniker": "2. Generic Array Creator\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\17.Generics\\2. Generic Array Creator\\Program.cs",
+              "RelativeToolTip": "2. Generic Array Creator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:25:30.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\17.Generics\\1. Box of T\\Box.cs",
+              "RelativeDocumentMoniker": "1. Box of T\\Box.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\17.Generics\\1. Box of T\\Box.cs",
+              "RelativeToolTip": "1. Box of T\\Box.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:05:15.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EqualityScale.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\17.Generics\\3. Generic Scale\\EqualityScale.cs",
+              "RelativeDocumentMoniker": "3. Generic Scale\\EqualityScale.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\17.Generics\\3. Generic Scale\\EqualityScale.cs",
+              "RelativeToolTip": "3. Generic Scale\\EqualityScale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:44:52.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\17.Generics\\3. Generic Scale\\Program.cs",
+              "RelativeDocumentMoniker": "3. Generic Scale\\Program.cs",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\17.Generics\\3. Generic Scale\\Program.cs",
+              "RelativeToolTip": "3. Generic Scale\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:25:44.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "3. Generic Scale",
+              "DocumentMoniker": "C:\\SoftUni\\C# Advanced\\17.Generics\\3. Generic Scale\\3. Generic Scale.csproj",
+              "RelativeDocumentMoniker": "3. Generic Scale\\3. Generic Scale.csproj",
+              "ToolTip": "C:\\SoftUni\\C# Advanced\\17.Generics\\3. Generic Scale\\3. Generic Scale.csproj",
+              "RelativeToolTip": "3. Generic Scale\\3. Generic Scale.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T13:43:38.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
